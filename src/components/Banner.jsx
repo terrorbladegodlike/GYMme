@@ -42,7 +42,6 @@ const Banner = () => {
             data-aos-delay='900'
             className='bg-blue-300 w-full h-full bg-banner bg-cover bg-right lg:bg-center bg-no-repeat flex-1'
           >
-            image
           </div>
         </div>
       </div>
